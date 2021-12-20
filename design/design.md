@@ -21,13 +21,12 @@ The game runs on a day-night cycle, with the night-time and day-time having diff
   * The Killers cannot directly kill the playboy.
 * Influencer:
   * During the day, they can choose to activate **Make Me Famous** and be confirmed as a civilian.
-* Undercover:
-  * Pretends to be a killer to try and sabotage them.
 
 ### Superpowers
 
 * Detective:
   * Every night, they can choose one player to see whether they are good or bad.
+    * Note that this can be affected by the Surgeon Killer's ability.
 * Guard:
   * Every night, they can choose one player to guard.
     * They cannot guard the same person twice in a row.
@@ -37,6 +36,7 @@ The game runs on a day-night cycle, with the night-time and day-time having diff
     * If they save someone who has been guarded, the person dies of an overdose.
     * After they saved someone, they are not told who died every night.
   * Once per game, they can choose to poison a player
+    * They can poison a player even if they were killed that round.
 * Psycho:
   * Once killed, they can choose one player to take with them.
 * Knight (Link):
@@ -62,3 +62,13 @@ The game runs on a day-night cycle, with the night-time and day-time having diff
 
 * Vampire:
   * Every night, the vampire chooses two players to bite. Once they have bitten everyone, they win.
+* Undercover:
+  * Pretends to be a killer to try and sabotage them.
+
+## Last Words
+
+Upon death, players can say anything that they want to, unless they are not given last words in such situations as:
+
+* The scond round of the game
+* Being killed by a Super Killer or Psycho
+  * Being killed through a Cupid will allow last words.
